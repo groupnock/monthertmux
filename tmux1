@@ -5,7 +5,7 @@ set -e
 MINER_COUNT=16
 
 # 👇 Your mining public key
-PUBKEY="2jcgp9Av69R6ndKZqFKLGyY4HFtaWjyzMsXJb6M5LYNYjVUUxMH3PoZcrB2wbLVxQY5h5BGbYzebmghxvrkzjJpp45LXpetwV6KpDK4qkCi8ANQzPPbZDQt2UMtbQRyYd6Q9"
+PUBKEY="3DkSmt24aog4wchqCqvpGRorTqVwDJMowhbTPPJmnPcByGb36ujUB5bFV7a2Y7M7MUNVQiRHE8XQx6rAYyGhibxa7VNfF6hR8WaMCLLR7vWDyoncHzmuHKpWDNiUj7ZxFowi"
 
 # 👇 Base compiled repo to clone from
 BASE_DIR="$HOME/nockchain"
